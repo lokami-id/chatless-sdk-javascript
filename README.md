@@ -1,4 +1,4 @@
 # chatless-sdk-javascript
-Chatless Javascript SDK dor React and React Native
+Chatless React and React Native SDK
 
 https://github.com/lokami-id/chatless
